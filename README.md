@@ -13,11 +13,7 @@ I am a Computer Science student focused on solving complex problems through soft
 I break down engineering decisions, system designs, and project workflows directly on my channel.
 
 <!-- DO NOT REMOVE THE LINES BELOW. The GitHub Action will inject your videos here -->
-<!-- YOUTUBE-CARDS:START -->
-- [Pana.tools is the new spot to launch what you build. #programming #collegelife #buildinpublic](https://www.youtube.com/shorts/l6i7gsuBgJE)
-- [This is our 1-minute recap of competing at the HackItUp Hackathon! ​#hackathon  #buildinpublic](https://www.youtube.com/shorts/uXfmOhilm50)
-- [DLSU Computer Science | The Freshman Experience](https://www.youtube.com/watch?v=eglKXu5qumc)
-<!-- YOUTUBE-CARDS:END -->
+<!-- YOUTUBE-CARDS:START --><a href="https://www.youtube.com/shorts/l6i7gsuBgJE" target="_blank" style="margin-right: 15px;"><img src="$imgUrl" alt="Pana.tools is the new spot to launch what you build. #programming #collegelife #buildinpublic" width="220" style="border-radius: 6px; border: 1px solid #3c3836;" /></a><a href="https://www.youtube.com/shorts/uXfmOhilm50" target="_blank" style="margin-right: 15px;"><img src="$imgUrl" alt="This is our 1-minute recap of competing at the HackItUp Hackathon! ​#hackathon  #buildinpublic" width="220" style="border-radius: 6px; border: 1px solid #3c3836;" /></a><a href="https://www.youtube.com/watch?v=eglKXu5qumc" target="_blank" style="margin-right: 15px;"><img src="$imgUrl" alt="DLSU Computer Science | The Freshman Experience" width="220" style="border-radius: 6px; border: 1px solid #3c3836;" /></a><!-- YOUTUBE-CARDS:END -->
 
 ---
 
