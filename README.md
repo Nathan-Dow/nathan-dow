@@ -50,7 +50,7 @@ To see the exact codebase implementation of my live builds, check out my pinned 
 
 ### 📊 Engineering Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathan-dow&show_icons=true&theme=gruvbox" alt="Nathan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nathan-dow&show_icons=true" alt="Nathan's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-dow&layout=compact" alt="Top Languages" height="150" />
 </p>
 
