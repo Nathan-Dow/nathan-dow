@@ -37,7 +37,7 @@ While I write code based on execution needs, here are the technologies and tools
   <!-- Supabase -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/supabase.svg" width="40" height="40" alt="Supabase" style="padding-right:15px;" />
   <!-- Claude / Anthropic -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/anthropic.svg" width="40" height="40" alt="Claude" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" width="40" height="40" alt="Claude" style="padding-right:15px;" />
   <!-- Google Gemini -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlegemini.svg" width="40" height="40" alt="Gemini" style="padding-right:15px;" />
   <!-- Git -->
