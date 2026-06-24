@@ -14,6 +14,9 @@ I break down engineering decisions, system designs, and project workflows direct
 
 <!-- DO NOT REMOVE THE LINES BELOW. The GitHub Action will inject your videos here -->
 <!-- YOUTUBE-CARDS:START -->
+- [Pana.tools is the new spot to launch what you build. #programming #collegelife #buildinpublic](https://www.youtube.com/shorts/l6i7gsuBgJE)
+- [This is our 1-minute recap of competing at the HackItUp Hackathon! ​#hackathon  #buildinpublic](https://www.youtube.com/shorts/uXfmOhilm50)
+- [DLSU Computer Science | The Freshman Experience](https://www.youtube.com/watch?v=eglKXu5qumc)
 <!-- YOUTUBE-CARDS:END -->
 
 ---
