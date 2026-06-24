@@ -22,3 +22,4 @@ jobs:
           comment_tag_name: "YOUTUBE-CARDS"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCZFJskZ1dzmubbKzqtewRhQ"
           max_post_count: 3
+          template: '<a href="$url" target="_blank" style="margin-right: 15px;"><img src="$imgUrl" alt="$title" width="220" style="border-radius: 6px; border: 1px solid #3c3836;" /></a>'
